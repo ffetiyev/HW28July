@@ -1,0 +1,14 @@
+C:\Users\ffati\source\repos\HW28July\HW28July\bin\Debug\net6.0\HW28July.exe
+C:\Users\ffati\source\repos\HW28July\HW28July\bin\Debug\net6.0\HW28July.deps.json
+C:\Users\ffati\source\repos\HW28July\HW28July\bin\Debug\net6.0\HW28July.runtimeconfig.json
+C:\Users\ffati\source\repos\HW28July\HW28July\bin\Debug\net6.0\HW28July.dll
+C:\Users\ffati\source\repos\HW28July\HW28July\bin\Debug\net6.0\HW28July.pdb
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.AssemblyInfoInputs.cache
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.AssemblyInfo.cs
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.csproj.CoreCompileInputs.cache
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.dll
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\refint\HW28July.dll
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.pdb
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\HW28July.genruntimeconfig.cache
+C:\Users\ffati\source\repos\HW28July\HW28July\obj\Debug\net6.0\ref\HW28July.dll
